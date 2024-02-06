@@ -3,4 +3,4 @@ venv/
 *.xml
 .vscode/
 .env
-faiss_index/
+/faiss_index/
